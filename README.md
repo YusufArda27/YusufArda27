@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#🌱 I’m currently learning SQL,PHP and C
+## 🌱 I’m currently learning SQL,PHP and C
 
 
-#⚡ Fun fact: The first oranges weren’t orange
+# ⚡ Fun fact: The first oranges weren’t orange
